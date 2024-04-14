@@ -1,1 +1,1 @@
-It is a basic mathematic Calculator for simple arthematic operations
+It is a basic mathematic Calculator for simple arithemetic operations
